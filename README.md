@@ -40,21 +40,16 @@ I am a 3rd-year B.E. Computer Science and Engineering student at Kalaignar Karun
 
 ## Computer Science Fundamentals
 
-Object-Oriented Programming (OOP)
-
-Operating Systems basics
-
-Database Management Systems (DBMS)
-
-Computer Networks fundamentals
-
-Knowledge of time & space complexity analysis
+<li>Object-Oriented Programming (OOP)</li>
+<li>Operating Systems basics</li>
+<li>Database Management Systems (DBMS)</li>
+<li>Computer Networks fundamentals</li>
+<li>Knowledge of time & space complexity analysis</li>
 
  ## Develpoer Tool
  
- GitHub
- 
- Visual Studio Code
+ <li>GitHub</li>
+ <li>Visual Studio Code</li>
 
 ## contact
 
