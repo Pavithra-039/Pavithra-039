@@ -36,7 +36,6 @@ I am a 3rd-year B.E. Computer Science and Engineering student at Kalaignar Karun
 
 [![Codolio](https://img.shields.io/badge/Codolio-Programming%20Stats-blue?style=for-the-badge)](https://codolio.com/profile/Pavi1309)
 
-![Codolio Stats](https://codolio.com/api/user/Pavi1309)
 
 ## Computer Science Fundamentals
 
